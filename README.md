@@ -1,5 +1,5 @@
 Windows version
-This is just a batch file to add,commit and push without opening command prompt.
+This is just a batch file to add,commit and push with scripts inside
 
 Open CLICKME.bat to setup
 Open git_set_remote.bat to setup remote to your github repo
